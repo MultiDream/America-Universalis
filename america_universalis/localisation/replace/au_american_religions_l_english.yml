@@ -1,0 +1,35 @@
+﻿# This is in replaced, because it contains one or more elements that exist in the base game.
+
+l_english:
+	north_american_group: "North American"
+  totemism: "Manitouan"
+  totemism_religion_desc:0 "Manitouans believe that all things are given spitirual existance through a great spirit, whom they refer to as Manitou."
+  bear_mountain: "Bear Mountain"
+  desc_bear_mountain:0 "Bear mountain is a holy place to the followers of Manitou. It is to be left untouched, save by the most revered priests and their escorts."
+  
+  south_american_group: "South American"
+  inti: "Inti"
+  inti_religion_desc:0 "The Inti faith revolves around the worship of the Sun God, who is believed to have a direct relation to the monarchs of the Incan Empire."
+  not_legit_rule: "Inti Skeptics"
+  desc_not_legit_rule:0 "Our weak connection to the lineage of rulers past distances our ruler from the holy title of descendant of Inti. This upsets much of the Inti faithful."
+  legit_rule: "A True Sun God"
+  desc_legit_rule:0 "Our connection to the lineage of Inti is not questioned in our domain. The faithful are happy to live under a true son god."
+
+  mayan_group: "Mexican Polytheism"
+  chichen_itza: "Conquest of the Chichen Itza"
+  desc_chichen_itza:0 "The Chichen Itza is the holy site of the mayan religion, where many of the rituals performed by mayan (and by extension, nahuatl) priests were standardized, and practiced for thousands of years. We now control it, and the network of priets and missionaries that come with it."
+  nahuatl_temple: "Conquest of the Temple of Cholula"
+  desc_nahuatl_temple:0 "The Great Temple of Cholula was built in the last century by the Nahuatl as part of a power play to make the nahuatl heresy of the mayan faith seen as a legitimate denomination. Regardless of which denomination now holds it, it is a truly important center of religion for the mexican religions, and we know control it."
+
+  nahuatl: "Nahuatl"
+  nahuatl_religion_desc:0 "The Nahuatl are an offshoot of the Mayan Religion that formed long ago over interpretations of the sacred mayan texts. The codex explicitly mentions that sacrifice is needed to power the gods in their fight to maintain the earth. However, where Othrodox Mayan takes this figuratively, the Nahuatl interpret this more literally."
+  nahuatl_at_war: "Nahuatl at War"
+  desc_nahuatl_at_war:0 "The Nahuatl believe that blood must be spilled in order to preserve the world. So long as we are at war, the faithful support the state, and don't need to form lynch mobs to secure sacrifices."
+  nahuatl_not_at_war: "Nahuatl not at War"
+  desc_nahuatl_not_at_war:0 "The Nahuatl believe that blood must be spilled in order to perserve the world. So long as we are not at war, the faithful see need to take matters into their own hands. We better find some weak nation quickly, before lynch mobs beginning forming."
+  
+  mesoamerican_religion: "Mayan"
+  mesoamerican_religion_religion_desc:0 "The Mayan Pantheon of gods includes many figures, and revolves around their efforts to protect the earth from collapse, either internally or to malevolent forces. It was standardized long ago in the Mayan Codex, a set of religious texts describing proper worship and the official cannon of the Pantheon."
+  nahuatl_defeated: "Mexican Schism Mended"
+  desc_nahuatl_defeated:0 "Without the public support of the people of Cholula, the high priest of the Nahuatl temple has been forced to leave his great temple at Cholula. With the Nahuatl Priests unable to organize their rituals, it would seem that the blood cult is losing popular support rapidly, and will soon be wiped out."
+

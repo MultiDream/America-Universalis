@@ -1,0 +1,95 @@
+﻿north_american_group = {
+	totemism = { # Manitouan
+		color = { 127 115 115 }
+		icon = 13
+		country = {
+			tolerance_own = 2
+			global_unrest = -2
+		}
+
+		#Changed
+		country_as_secondary = {
+			tolerance_own = 3
+		}
+		province = {
+			#No Longer ! : local_missionary_strength = 0.02
+		}
+		
+		heretic = { BEAR_SPIRIT CROW WIKKA }	
+	}
+}
+
+mayan_group = {
+	nahuatl = {
+		color = { 64 115 64 }
+		icon = 17
+
+		#Changed
+		country = {
+			land_morale = 0.1
+			tolerance_own = 2
+		}
+
+		#Changed
+		country_as_secondary = {
+			land_morale = 0.05
+			raze_power_gain = 0.2
+		}
+		province = {
+			# No Longer ! : local_missionary_strength = 0.02
+		}
+		declare_war_in_regency = yes
+		
+		heretic = { PACIFISTS }	
+	}
+	
+	mesoamerican_religion = {
+		#color = { 76 25 178 }
+		color = { 127 25 178 }
+		icon = 19
+
+		#Changed.
+		country = {
+			global_institution_spread = +0.10
+			advisor_cost = -0.10
+		}
+
+		#Changed.
+		country_as_secondary = {
+			global_institution_spread = +0.05
+			stability_cost_modifier = -0.1
+		}
+		province = {
+			#No Longer ! : local_missionary_strength = 0.02
+		}
+		
+		#Changed
+		heretic = { NAHUATL_FANATICS }	
+	}
+}
+
+south_american_group = {
+	inti = {
+		color = { 64 115 115 }
+		icon = 18
+
+		#Changed.
+		country = {
+			tolerance_own = 2
+			legitimacy = 1
+			global_autonomy = -0.05
+		}
+
+		#Changed.
+		country_as_secondary = {
+			global_autonomy = -0.10
+			tolerance_own = 1
+		}
+		
+		province = {
+			# No Longer! : local_missionary_strength = 0.02
+		}
+		
+		heretic = { INTI_HERETIC HUACAN }	
+	}
+}

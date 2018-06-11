@@ -1,0 +1,17 @@
+﻿l_english:
+ #American Tech Groups
+ north_american:0 "Eastern"
+ north_american_desc:0 "With the Eastern technology group, technology levels are standard cost (100%)."
+ mesoamerican:0 "Mexican"
+ mesoamerican_desc:0 "With the Mexican technology group, technology levels are standard cost (100%)."
+ south_american:0 "Southern"
+ south_american_desc:0 "With the Southern technology group, technology levels are standard cost (100%)."
+ andean:0 "Incan"
+ andean_desc:0 "With the Incan technology group, technology levels are standard cost (100%)."
+ #European Tech Groups
+ western:0 "Western European"
+ western_desc:0 "With the Western European technology group, technology levels are 150% more expensive (250%)."
+ eastern:0 "Eastern European"
+ eastern_desc:0 "With the Eastern European technology group, technology levels are 100% more expensive (200%)."
+ ottoman:0 "Greek"
+ ottoman_desc:0 "With the Greek technology group, technology levels are 25% more expensive (125%)."

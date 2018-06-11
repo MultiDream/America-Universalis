@@ -1,0 +1,112 @@
+#########################################
+# Manitouan Religion triggered modifiers
+#########################################
+
+# Bear Butte. Location might be slightly off, mostly just eyeballed it.
+bear_mountain = {
+	potential = {
+		religion = totemism
+	}
+	trigger = {
+		owns = 2008 #Lakota. 
+	}
+	missionaries = 1
+}
+
+##############################################
+# Mexican Polytheist Group Triggered Mods
+##############################################
+
+chichen_itza = {
+	potential = {
+		OR = {
+			religion = mesoamerican_religion
+			religion = nahuatl
+		}
+	}
+	trigger = {
+		owns = 846 # Souta, Chichen Itza
+	}
+	missionaries = 1
+}
+
+nahuatl_temple = {
+	potential = {
+		OR = {
+			religion = mesoamerican_religion
+			religion = nahuatl
+		}
+	}
+	trigger = {
+		owns = 2644 #Cholula
+	}
+	missionaries = 1
+}
+
+######################################
+# Mayan Religion Triggered Mods
+######################################
+
+nahuatl_defeated = {
+	potential = {
+		religion = mesoamerican_religion
+	}
+	trigger = {
+		2644 = { #Cholula is Mayan
+			religion = mesoamerican_religion
+		}
+	}
+	global_heretic_missionary_strength = 0.02
+}
+
+######################################
+# Nahuatl Triggered Modifiers
+######################################
+
+nahuatl_at_war = {
+	potential = {
+		religion = nahuatl
+	}
+	trigger = {
+		is_at_war = yes
+	}
+	stability_cost_modifier = -0.2
+	tolerance_own = 1
+}
+
+nahuatl_not_at_war = {
+	potential = {
+		religion = nahuatl
+	}
+	trigger = {
+		is_at_war = no
+	}
+	stability_cost_modifier = +0.2
+	tolerance_own = -1
+}
+
+###################################
+# Inti Triggered Modifiers
+###################################
+
+not_legit_rule = {
+	potential = {
+		religion = inti
+	}
+	trigger = {
+		NOT = {
+			legitimacy = 30
+		}
+	}
+	tolerance_own = -1
+}
+
+legit_rule = {
+	potential = {
+		religion = inti
+	}
+	trigger = {
+		legitimacy = 90
+	}
+	tolerance_own = 1
+}

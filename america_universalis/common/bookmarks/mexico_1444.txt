@@ -1,0 +1,12 @@
+bookmark =
+{
+	name = "MEXICO_BOOKMARK_NAME"
+	desc = "MEXICO_BOOKMARK_DESC"
+	date = 1444.11.11
+	
+	center = 852
+	
+	country = AZT
+	country = MAY
+	
+}

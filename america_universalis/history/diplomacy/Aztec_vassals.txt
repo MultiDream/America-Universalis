@@ -1,0 +1,8 @@
+# Aztec - Tlaxcala
+# Priests of Tlaxcala maintained some autonomy from the monarch of the Aztek
+vassal = {
+	first = AZT
+	second = TLX
+	start_date = 1444.1.1
+	end_date = 1500.1.1
+}

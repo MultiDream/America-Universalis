@@ -4,9 +4,10 @@ bookmark =
 	desc = "MEXICO_BOOKMARK_DESC"
 	date = 1444.11.11
 	
-	center = 852
+	center = 852 #Mexico
 	
-	country = AZT
-	country = MAY
-	
+	country = AZT #Aztek
+	country = ZAP #Zapotec
+	country = ITZ #Itza
+	country = TLX #Tlaxcala
 }

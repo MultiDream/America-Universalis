@@ -1,0 +1,4 @@
+discovered_by = north_american
+discovered_by = plains_american
+discovered_by = west_american
+discovered_by = mesoamerican

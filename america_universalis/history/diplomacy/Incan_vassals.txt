@@ -1,0 +1,32 @@
+# CSU - ICM
+# The High Priest of Ichima was an important figure in the Inti faith, and the Incan Emporers always did their best
+# To maintain relations.
+vassal = {
+	first = CSU
+	second = ICM
+	start_date = 1444.1.1
+	end_date = 1500.1.1
+}
+
+#CSU - WKA
+#CSU - HJA
+#CSU - CLA
+# The Emporer of CSUco maintained a few disloyal vassals during the Incan retractional period.
+vassal = {
+	first = CSU
+	second = WKA
+	start_date = 1444.1.1
+	end_date = 1500.1.1
+}
+vassal = {
+	first = CSU
+	second = HJA
+	start_date = 1444.1.1
+	end_date = 1500.1.1
+}
+vassal = {
+	first = CSU
+	second = CLA
+	start_date = 1444.1.1
+	end_date = 1500.1.1
+}

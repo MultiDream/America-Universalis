@@ -1,0 +1,12 @@
+bookmark = {
+	name = "EASTCOAST_BOOKMARK_NAME"
+	desc = "EASTCOAST_BOOKMARK_DESC"
+	date = 1444.11.11
+
+	center = 950 #Chesapeake
+
+	country = IRO #Iroqouis
+	country = HUR #Huron
+	country = CRE #Creek
+	country = CHE #Cherokee
+}

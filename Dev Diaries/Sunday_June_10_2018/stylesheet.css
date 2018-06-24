@@ -1,14 +1,15 @@
 body{
-	background-color: #42bff4;
+	background-color: #ffffff;#66ccff;
 }
 .notReached{
 	color: red;
 }
 .workingOn{
-	color: #c2f442;
+	color: #ff9900;
 }
 .complete{
 	color: green;
 }
 .polished{
 	color: blue;
+}

@@ -2,8 +2,8 @@
 
 Welcome to the America Universalis Homepage.
 
-CURRENT VERSION:
-  Pre-Beta 0.2.1 - TradeNodes w/ some of American Tech
+##CURRENT VERSION:
+Pre-Beta 0.3.0 - American Tech
   
   This version is not considered playable yet.
   If you'd like to use it in your mod, feel free.

@@ -1,0 +1,5 @@
+1492.10.1 = { discovered_by = CAS } # Christopher Columbus
+discovered_by = mesoamerican
+discovered_by = south_american
+discovered_by = north_american
+1516.1.23 = { discovered_by = SPA }

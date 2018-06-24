@@ -1,0 +1,13 @@
+bookmark = {
+	name = "PLAINS_BOOKMARK_NAME"
+	desc = "PLAINS_BOOKMARK_DESC"
+	date = 1444.11.11
+
+	center = 901 #Kansas? I tried to pick the center of the plains region.
+
+	country = SIO #Sioux
+	country = PAW #Pawnee
+	country = WIC #Wichita
+	country = SHO #Shoshone
+	country = COM #Commanche
+}

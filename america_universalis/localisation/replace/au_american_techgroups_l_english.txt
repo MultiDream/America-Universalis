@@ -1,4 +1,0 @@
-l_english:
- western_desc:0 "With the Western technology group, technology levels are standard cost (100%)."
- eastern_desc:0 "With the Eastern technology group, technology levels are 20% more expensive (120%)."
- ottoman_desc:0 "With the Anatolian technology group, technology levels are 25% more expensive (125%)."

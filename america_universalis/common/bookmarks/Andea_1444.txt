@@ -1,0 +1,12 @@
+bookmark = {
+	name = "INCA_BOOKMARK_NAME"
+	desc = "INCA_BOOKMARK_DESC"
+	date = 1444.11.11
+
+	center = 808 #Cusco
+
+	country = CSU #Cusco
+	country = QTO #Qutio
+	country = CHM #Chimu
+	country = MCA #Musica
+}

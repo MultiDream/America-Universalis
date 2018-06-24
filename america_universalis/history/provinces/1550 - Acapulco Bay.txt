@@ -1,0 +1,3 @@
+1522.1.1 = { discovered_by = SPA }
+discovered_by = andean
+discovered_by = mesoamerican

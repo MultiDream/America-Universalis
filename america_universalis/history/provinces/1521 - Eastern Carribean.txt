@@ -1,0 +1,7 @@
+discovered_by = CAB
+discovered_by = mesoamerican
+discovered_by = south_american
+discovered_by = north_american
+discovered_by = ARW
+1493.11.19 = { discovered_by = CAS }
+1516.1.23 = { discovered_by = SPA }

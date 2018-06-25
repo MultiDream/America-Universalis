@@ -1,8 +1,8 @@
 government = steppe_horde government_rank = 1
-primary_culture = pawnee
+primary_culture = shoshone
 religion = totemism
 technology_group = plains_american
-capital = 901 # Pawnee
+capital = 2020	# Bannock
 
 
 1444.11.11 = {

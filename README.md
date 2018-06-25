@@ -3,7 +3,7 @@
 Welcome to the America Universalis Homepage.
 
 ##CURRENT VERSION:
-Pre-Beta 0.3.0 - American Tech
+Pre-Beta 0.3.1 - American Tech, with 1 bug fix
   
   This version is not considered playable yet.
   If you'd like to use it in your mod, feel free.

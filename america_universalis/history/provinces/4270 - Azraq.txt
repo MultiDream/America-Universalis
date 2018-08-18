@@ -1,4 +1,5 @@
 #4270 - Azraq
+discovered_by = eastern
 
 owner = FAD
 controller = FAD

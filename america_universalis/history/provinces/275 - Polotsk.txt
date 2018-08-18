@@ -1,9 +1,11 @@
 #275 - Polotsk
+religion = animism
+discovered_by = eastern
+native_hostileness = 1
+native_ferocity = 1
+native_size = 1
 
-owner = LIT 
-controller = LIT 
 culture = byelorussian
-religion = orthodox 
 hre = no
 base_tax = 4
 base_production = 4
@@ -11,25 +13,12 @@ trade_goods = iron
 base_manpower = 1
 add_local_autonomy = 50
 capital = "Polotsk"
-is_city = yes 
 fort_15th = yes 
-add_core = PLT
-add_core = LIT
-discovered_by = western
-discovered_by = eastern
-discovered_by = nomad_group
 
 
-1563.2.15 = { controller = RUS } # Captured by Ivan the Terrible, during the Livonian war
 1569.7.1 = {
-	owner = PLC
-	add_core = PLC
 } # Union of Lublin
-1579.9.30 = { controller = PLC } # Retaken by Stephan Bathory
 1772.8.5 = {
-	add_core = RUS
-	owner = RUS
-	controller = RUS
 	remove_core = PLC
 	add_local_autonomy = -50
 } # First partition of Poland

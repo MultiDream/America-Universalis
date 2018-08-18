@@ -9,9 +9,9 @@
  andean:0 "Incan"
  andean_desc:0 "With the Incan technology group, technology levels are standard cost (100%)."
  #European Tech Groups
- western:0 "Western European"
+ western:0 "Germanic"
  western_desc:0 "With the Western European technology group, technology levels are 150% more expensive (250%)."
- eastern:0 "Eastern European"
+ eastern:0 "Slavic"
  eastern_desc:0 "With the Eastern European technology group, technology levels are 100% more expensive (200%)."
  ottoman:0 "Greek"
  ottoman_desc:0 "With the Greek technology group, technology levels are 25% more expensive (125%)."

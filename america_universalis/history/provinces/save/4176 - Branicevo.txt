@@ -1,0 +1,36 @@
+#4176 - Branicevo
+native_hostileness = 1
+native_ferocity = 1
+native_size = 1
+
+culture = serbian
+religion = orthodox
+capital = "Kru�evac"
+trade_goods = livestock
+hre = no
+base_tax = 3
+base_production = 3
+base_manpower = 1
+discovered_by = KAZ
+discovered_by = CRI
+discovered_by = GOL
+discovered_by = AST
+discovered_by = QAS
+discovered_by = western
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+
+
+1459.6.20 = {
+	capital = "Golubac"
+}
+1688.11.7 = { unrest = 12 } # Serb rebellion under D. Brankovic
+1717.8.22 = {
+	unrest = 0
+} # Austrian occupation
+1739.9.18 = {
+}
+1817.7.26 = {
+	revolt = {}
+}

@@ -1,0 +1,6 @@
+government = steppe_horde 
+government_rank = 2
+technology_group = ottoman
+primary_culture = bulgarian
+religion = tengri_pagan_reformed
+capital = 150	# Sofia

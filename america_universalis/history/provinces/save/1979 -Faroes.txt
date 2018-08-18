@@ -1,0 +1,22 @@
+#1979 - F�r�arna
+native_hostileness = 1
+native_ferocity = 1
+native_size = 1
+
+culture = norwegian
+religion = catholic
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+trade_goods = fish
+capital = "Torshavn"
+
+
+
+discovered_by = western
+
+
+1536.1.1 = {
+	religion = protestant
+}

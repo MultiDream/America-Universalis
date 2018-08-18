@@ -1,4 +1,5 @@
 #2311 - Samawah
+discovered_by = eastern
 
 owner = QAR
 controller = QAR

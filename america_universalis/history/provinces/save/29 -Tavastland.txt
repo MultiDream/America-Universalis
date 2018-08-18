@@ -1,0 +1,23 @@
+#Tavastland, incl. Tavastehus.
+native_hostileness = 1
+native_ferocity = 1
+native_size = 1
+
+culture = finnish
+religion = catholic
+hre = no
+base_tax = 1 
+base_production = 1
+trade_goods = fur
+base_manpower = 1
+capital = "Tavastehus"
+#fort_15th = yes
+discovered_by = western
+discovered_by = eastern
+
+
+1527.6.1 = { religion = protestant}
+1600.1.1 = { trade_goods = naval_supplies }
+1809.9.17 = {
+	remove_core = SWE
+} # Treaty of Fredrikshamn

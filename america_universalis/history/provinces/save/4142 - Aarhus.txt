@@ -1,0 +1,25 @@
+#Eastern Jutland, incl. Aarhus, Djursland and Randers.
+native_hostileness = 1
+native_ferocity = 1
+native_size = 1
+
+culture = danish
+religion = catholic
+hre = no
+base_tax = 4
+base_production = 4
+trade_goods = naval_supplies
+base_manpower = 3
+capital = "Aarhus"
+estate = estate_burghers
+discovered_by = western
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+
+
+1536.1.1 = { religion = protestant }
+1627.8.1 = {
+}
+1629.5.22 = {
+}

@@ -1,4 +1,5 @@
 #2314 - Rahba
+discovered_by = eastern
 
 owner = MAM
 controller = MAM

@@ -1,0 +1,29 @@
+#135 - Sopron (Sopron + Vas + Moson + Zala)
+native_hostileness = 1
+native_ferocity = 1
+native_size = 1
+
+culture = hungarian
+religion = catholic
+capital = "Sopron"
+trade_goods = grain
+hre = no
+base_tax = 3
+base_production = 3
+base_manpower = 2
+estate = estate_church
+discovered_by = KAZ
+discovered_by = CRI
+discovered_by = GOL
+discovered_by = AST
+discovered_by = QAS
+discovered_by = western
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+
+
+1526.8.30 = {
+} #Hungary fractured after Battle of Mohacs
+1545.1.1 = { religion = protestant } # Synod of Erdod
+#1570.1.1 = { remove_core = TRA	} #Treaty of Speyer

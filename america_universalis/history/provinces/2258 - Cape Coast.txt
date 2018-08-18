@@ -15,9 +15,7 @@ base_manpower = 1
 
 
 
-discovered_by = sub_saharan
 
-1471.1.1 = { discovered_by = POR } # Frenão do Pó
 
 1482.1.19 = {
 	owner = POR

@@ -1,11 +1,11 @@
-#2323 - Sahra an Nübyah
+#2323 - Sahra an Nï¿½byah
 
 owner = BEJ
 controller = BEJ 
 add_core = BEJ
 culture = nubian
 religion = coptic
-capital = "Sahra an Nübyah"
+capital = "Sahra an Nï¿½byah"
 is_city = yes
 base_manpower = 1
 trade_goods = slaves

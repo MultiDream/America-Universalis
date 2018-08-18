@@ -1,0 +1,26 @@
+#119 - Ancona
+native_hostileness = 1
+native_ferocity = 1
+native_size = 1
+
+culture = umbrian 
+religion = catholic 
+hre = no 
+base_tax = 5 
+base_production = 5    
+trade_goods = paper
+base_manpower = 4    
+capital = "Ancona" 
+estate = estate_burghers #Or nobles
+discovered_by = western
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+
+
+1805.12.26 = {
+	remove_core = PAP
+} # Treaty of Pressburg
+1814.4.11 = {
+	remove_core = FRA
+} # Treaty of Fontainebleau, Napoleon abdicates unconditionally

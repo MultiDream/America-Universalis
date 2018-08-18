@@ -1,0 +1,7 @@
+government = native_council
+government_rank = 1
+primary_culture = scottish
+add_accepted_culture = highland_scottish
+religion = animism
+technology_group = western
+capital = 248 # Edinburgh

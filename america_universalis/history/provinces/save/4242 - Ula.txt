@@ -1,0 +1,27 @@
+#4242 - Ula
+native_hostileness = 1
+native_ferocity = 1
+native_size = 1
+
+culture = byelorussian
+religion = orthodox 
+hre = no
+base_tax = 2
+base_production = 2
+trade_goods = iron
+base_manpower = 1
+add_local_autonomy = 50
+capital = "Ula"
+discovered_by = western
+discovered_by = eastern
+discovered_by = nomad_group
+
+
+1569.7.1 = {
+} # Union of Lublin
+1772.8.5 = {
+	remove_core = PLC
+	add_local_autonomy = -50
+} # First partition of Poland
+1794.3.24 = { unrest = 5 } # Kosciuszko uprising, minimize the Russian influence
+1794.11.16 = { unrest = 0 }

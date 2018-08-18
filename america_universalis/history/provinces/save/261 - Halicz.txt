@@ -1,0 +1,36 @@
+#261 - Halicz
+native_hostileness = 1
+native_ferocity = 1
+native_size = 1
+
+capital= "Halicz"
+culture = ruthenian
+religion = orthodox
+trade_goods = grain
+hre = no
+base_tax = 3
+base_production = 3
+base_manpower = 2
+discovered_by = KAZ
+discovered_by = CRI
+discovered_by = GOL
+discovered_by = AST
+discovered_by = QAS
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+
+
+1492.1.1 = { unrest = 0 } 
+1569.7.1 = {
+	remove_core = POL
+} # Union of Lublin
+1572.1.1 = { unrest = 6 } # Sigismund II dies
+1591.1.1 = { unrest = 5 } # Kosinski uprising
+1593.1.1 = { unrest = 0 }
+1594.1.1 = { unrest = 6 } # Nalewajko uprising
+1596.1.1 = { unrest = 0 } 
+1772.8.5 = {
+	remove_core = PLC
+} # First partition of Poland

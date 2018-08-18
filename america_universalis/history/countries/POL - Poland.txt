@@ -1,0 +1,9 @@
+government = native_council
+government_rank = 1
+primary_culture = polish
+religion = animism
+technology_group = eastern
+historical_friend = LIT
+historical_rival = TEU
+capital = 262 # Krakow
+

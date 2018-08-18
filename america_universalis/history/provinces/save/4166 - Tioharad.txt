@@ -1,0 +1,21 @@
+#Western Sm�land - Tioh�rads Lagsaga, ie: V�rend, Finnveden och Njudung
+native_hostileness = 1
+native_ferocity = 1
+native_size = 1
+
+culture = swedish
+religion = catholic
+hre = no
+base_tax = 1
+base_production = 1
+trade_goods = naval_supplies
+base_manpower = 1
+capital = "V�xj�"
+discovered_by = western
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+
+1527.6.1 = { religion = protestant}
+1623.1.1 = { base_manpower = 2 } # Sm�land did a huge contribution in number of regiments
+

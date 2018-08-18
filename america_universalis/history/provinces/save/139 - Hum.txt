@@ -1,0 +1,28 @@
+#139 - Hum
+native_hostileness = 1
+native_ferocity = 1
+native_size = 1
+
+culture = serbian
+religion = catholic
+capital = "Mostar"	# Unofficial capital of Herzegovina
+trade_goods = wool
+hre = no
+base_tax = 3 
+base_production = 3
+base_manpower = 2
+estate = estate_nobles
+discovered_by = KAZ
+discovered_by = CRI
+discovered_by = GOL
+discovered_by = AST
+discovered_by = QAS
+discovered_by = western
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+
+
+1521.1.1 = {
+}
+

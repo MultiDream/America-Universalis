@@ -1,0 +1,32 @@
+#�sel and Dag�, incl. Sonnenburg and Arensburg.
+native_hostileness = 1
+native_ferocity = 1
+native_size = 1
+
+culture = estonian
+religion = catholic
+hre = no
+base_tax = 1 
+base_production = 1
+trade_goods = grain
+base_manpower = 1
+capital = "Arensburg"
+
+
+
+discovered_by = western
+discovered_by = eastern
+
+
+1542.1.1 = { religion = protestant} # Unknown date
+1559.1.1 = {
+	remove_core = LIV
+} # Danish purchase
+1645.8.13 = {
+	remove_core = DAN
+	estate = estate_nobles
+} # The Peace of Br�msebro
+1721.8.30 = {
+	remove_core = SWE
+} # The Peace of Nystad
+

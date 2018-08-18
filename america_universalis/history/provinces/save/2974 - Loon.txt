@@ -1,0 +1,29 @@
+#2974 Loon
+native_hostileness = 1
+native_ferocity = 1
+native_size = 1
+
+capital = "Loon"
+culture = flemish
+religion = catholic
+hre = no
+base_tax = 5
+base_production = 5
+trade_goods = cloth
+base_manpower = 2
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+
+
+1465.1.1 = { unrest = 4 } # Revolt imminent
+1465.4.22 = { unrest = 8 } # Citizens revolt
+1465.10.19 = { unrest = 0 } # Peace is restored
+1492.8.12 = { remove_core = HAB } # Li�ge signs a perpetual treaty of neutrality with Austria (and France)
+1797.12.26 = {
+} # Treaty of Campo Formio
+1806.7.12 = { hre = no } # The Holy Roman Empire is dissolved
+1815.3.16 = {
+	remove_core = FRA
+} # The United Kingdom of the Netherlands

@@ -1,0 +1,34 @@
+#4236 - Trencin
+native_hostileness = 1
+native_ferocity = 1
+native_size = 1
+
+culture = slovak
+religion = catholic
+capital = "Trencin"
+trade_goods = iron
+hre = no
+base_tax = 2
+base_production = 3
+base_manpower = 1
+estate = estate_nobles
+fort_15th = yes #Trencin Castle
+discovered_by = western
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = KAZ
+discovered_by = CRI
+discovered_by = GOL
+discovered_by = AST
+discovered_by = QAS
+
+1432.1.1 = { unrest = 10 } # The city is attacked by Hussites
+1434.1.1 = { unrest = 0 }
+1440.1.1 = { unrest = 10 } # Struggles between the supporters of Ladislaus and Elisabeth of Hungary
+1443.1.1 = { unrest = 0 }
+1526.8.30 = {
+} #Hungary fractured after Battle of Mohacs
+1545.1.1 = { religion = protestant } # Synod of Erdod
+1567.1.1 = { religion = reformed } # Synod of Debrecen
+1710.1.1 = { revolt = {} } # Plague

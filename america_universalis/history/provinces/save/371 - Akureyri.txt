@@ -1,0 +1,21 @@
+#371 - Akureyri
+native_hostileness = 1
+native_ferocity = 1
+native_size = 1
+
+culture = norwegian
+religion = catholic
+hre = no
+base_tax = 1 
+base_production = 1
+trade_goods = fish
+base_manpower = 1
+capital = "Akureyri"
+add_local_autonomy = 25
+
+
+
+discovered_by = western
+
+
+1752.1.1 = { trade_goods = wool } # Wool becomes more important.

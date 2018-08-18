@@ -1,4 +1,5 @@
 #405 - Tadmor
+discovered_by = eastern
 
 owner = FAD
 controller = FAD

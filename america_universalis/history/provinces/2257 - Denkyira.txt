@@ -13,7 +13,6 @@ base_manpower = 1
 
 
 
-discovered_by = sub_saharan
 
 
 1500.1.1 = {

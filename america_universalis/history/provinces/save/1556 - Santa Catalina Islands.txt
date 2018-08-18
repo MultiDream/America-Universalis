@@ -1,0 +1,7 @@
+1542.1.1 = { discovered_by = SPA } # Juan Rodr�guez Cabrillo
+discovered_by = andean
+discovered_by = mesoamerican
+discovered_by = west_american
+1579.6.16  = { discovered_by = ENG } # Sir Francis Drake
+1707.5.12 = { discovered_by = GBR }
+1786.1.1 = { discovered_by = FRA } # Jean Francois la Perouse

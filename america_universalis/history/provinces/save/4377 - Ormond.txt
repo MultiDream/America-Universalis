@@ -1,0 +1,26 @@
+#4377 - Ormond
+native_hostileness = 1
+native_ferocity = 1
+native_size = 1
+
+culture = irish
+religion = catholic
+hre = no
+base_tax = 3
+base_production = 3
+trade_goods = livestock
+base_manpower = 1
+capital = "Kilkenny"
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = eastern
+
+1632.2.24 = {
+} # Succession of the Protestant James, 1st Duke of Ormond
+1642.6.7 = {
+ revolt = {}
+} # Confederation of Kilkenny
+1707.5.12 = {
+	remove_core = ENG
+}

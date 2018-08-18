@@ -1,4 +1,5 @@
 # - Cezair i-Arab -> al-Qurna, Zihiya, Rahmaniya
+discovered_by = eastern
 
 owner = MSY
 controller = MSY

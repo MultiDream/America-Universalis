@@ -1,0 +1,36 @@
+#1954 - Toront�l
+native_hostileness = 1
+native_ferocity = 1
+native_size = 1
+
+culture = hungarian
+religion = catholic
+capital = "Nagybecskerek"
+trade_goods = livestock
+hre = no
+base_tax = 3
+base_production = 3
+base_manpower = 2
+discovered_by = KAZ
+discovered_by = CRI
+discovered_by = GOL
+discovered_by = AST
+discovered_by = QAS
+discovered_by = western
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+
+
+1526.8.30 = {
+} #Hungary fractured after Battle of Mohacs
+1542.1.1 = {
+	remove_core = TRA
+}
+1545.8.1 = { remove_core = HAB } # Treaty of Adrianople ends the Ottoman-Habsburg War
+#1562.6.1 # The end of the Ottoman-Habsburg War
+1567.1.1 = { religion = reformed } # Synod of Debrecen
+#1570.1.1 = { remove_core = TRA	} #Treaty of Speyer
+1718.1.1 = {
+	remove_core = TUR
+} # The House of Habsburg is recognized as new ruler

@@ -33,3 +33,5 @@ l_english:
   nahuatl_defeated: "Mexican Schism Mended"
   desc_nahuatl_defeated:0 "Without the public support of the people of Cholula, the high priest of the Nahuatl temple has been forced to leave his great temple at Cholula. With the Nahuatl Priests unable to organize their rituals, it would seem that the blood cult is losing popular support rapidly, and will soon be wiped out."
 
+  orthodox: "Christian"
+  orthodox_religion_desc:0 "The Christians are branch of Judaism that believes in the teachings of an ancient Jewish Preacher known as Jesus."

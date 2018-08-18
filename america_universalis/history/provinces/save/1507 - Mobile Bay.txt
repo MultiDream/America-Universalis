@@ -1,0 +1,5 @@
+1519.1.1 = { discovered_by = SPA }
+discovered_by = mesoamerican
+discovered_by = south_american
+discovered_by = north_american
+discovered_by = plains_american

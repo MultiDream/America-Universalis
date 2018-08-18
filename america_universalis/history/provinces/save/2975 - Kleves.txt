@@ -1,0 +1,33 @@
+culture = hessian
+native_hostileness = 1
+native_ferocity = 1
+native_size = 1
+religion = catholic
+trade_goods = cloth
+capital = "Kleves"
+base_tax = 5
+base_production = 5
+base_manpower = 2
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+
+hre = no
+
+1610.1.1 = {
+	remove_core = KLE
+} # Berg is inherited by Pfalsz-Neuenburg
+1777.12.30 = {
+	remove_core = PAL
+} # The Palatian Wittelsbachs inherit Bavaria and govern their lands from Munich.
+1806.7.12 = {
+	remove_core = FRA
+	hre = no
+} # The Holy Roman Empire is dissolved. Grand Duchy of Berg
+1808.8.1 = {
+} # Murat moves to Naples
+	remove_core = FRA
+} # Grand Duchy of Berg ruled by Napoleon Louis
+1814.4.11 = {
+} # Treaty of Fontainebleu, Napoleon abdicates unconditionally

@@ -1,0 +1,19 @@
+#Kurland, center at Goldingen
+native_hostileness = 1
+native_ferocity = 1
+native_size = 1
+
+culture = latvian
+religion = catholic
+hre = no
+base_tax = 3
+base_production = 3
+trade_goods = naval_supplies
+base_manpower = 1
+capital = "Goldingen"
+estate = estate_church #Pilten
+
+
+
+discovered_by = western
+discovered_by = eastern

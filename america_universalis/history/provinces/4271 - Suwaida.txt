@@ -1,4 +1,5 @@
 #4271 - Suwaida
+discovered_by = eastern
 
 owner = FAD
 controller = FAD

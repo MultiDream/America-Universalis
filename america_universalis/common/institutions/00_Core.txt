@@ -24,15 +24,6 @@ feudalism = {
 	history = {
 		is_year = 1000
 		OR = {
-			OR = { #Condition checks to see if american.
-				#Added Natives to list of feudal nations.
-				technology_group = mesoamerican
-				technology_group = plains_american
-				technology_group = north_american
-				technology_group = west_american
-				technology_group = south_american
-				technology_group = andean
-			}
 			AND = { #If this is changed costs for Nation Designer may also need to be changed.
 				OR = {
 					continent = new_world
@@ -108,6 +99,10 @@ feudalism = {
 					government = tribal_democracy
 					primary_culture = bedouin_arabic
 					primary_culture = uyghur
+					technology_group = andean
+					technology_group = mesoamerican
+					technology_group = north_american
+					technology_group = south_american
 					technology_group = sub_saharan
 				}
 			}

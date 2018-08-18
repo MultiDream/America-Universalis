@@ -1,0 +1,30 @@
+#369 - Orkney
+native_hostileness = 1
+native_ferocity = 1
+native_size = 1
+
+culture = norwegian
+religion = catholic
+hre = no
+base_tax = 1 
+base_production = 1
+trade_goods = fish
+base_manpower = 1
+capital = "Kirkwall"
+
+
+
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = eastern
+
+
+1469.1.1 = {
+	culture = scottish
+	remove_core = NOR
+} # Dowry of Margaret, Daughter of Christian I of Denmark and Norway and Wife of James III of Scotland
+1609.1.1 = { religion = reformed } # First Protestant Minister Arrives in the Orkneys
+1707.5.12 = {
+}
+1750.1.1 = { }

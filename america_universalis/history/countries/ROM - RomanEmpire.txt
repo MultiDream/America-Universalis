@@ -1,0 +1,15 @@
+government = feudal_monarchy
+primary_culture = roman
+religion = animism
+technology_group = ottoman
+capital = 118 # Rome
+
+1444.11.11 = {
+	monarch = {
+		name = "PlaceHolder III" # Get it?
+		adm = 3
+		dip = 3
+		mil = 3
+		regent = yes
+	}
+}

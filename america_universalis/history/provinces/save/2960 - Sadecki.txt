@@ -1,0 +1,29 @@
+#262 - Sadecki
+native_hostileness = 1
+native_ferocity = 1
+native_size = 1
+
+culture = polish
+religion = catholic
+capital = "Nowy Sacz"
+hre = no
+base_tax = 6
+base_production = 6
+trade_goods = iron
+base_manpower = 2
+estate = estate_nobles
+discovered_by = KAZ
+discovered_by = CRI
+discovered_by = GOL
+discovered_by = AST
+discovered_by = QAS
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+
+1558.1.1 = { religion = protestant }
+1569.7.1 = {
+	remove_core = POL
+} # Union of Lublin
+1658.1.1 = { religion = catholic }

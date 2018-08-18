@@ -1,0 +1,46 @@
+# 86 - Munster
+native_hostileness = 1
+native_ferocity = 1
+native_size = 1
+
+culture = hannoverian
+religion = catholic
+trade_goods = cloth
+capital = "M�nster"
+base_tax = 4
+base_production = 4
+base_manpower = 2
+hre = no
+
+
+
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+
+
+1534.5.1 = { unrest = 3 } # The Babtists (T�ufer) are executed and removed from power during 1534 and 1535
+1535.3.1 = { unrest = 0 }
+1585.1.1 = {
+}
+1643.1.1 = { base_manpower = 1 } # The 30 years war was hard on M�nster. It is one of the two towns where the peace is negotiated. 1643-1648
+1650.1.1 = {
+	remove_core = KOL
+} # M�nster's Bishop is no longer the Bishop of K�ln
+1666.1.1 = { fort_16th = yes }
+1723.1.1 = {
+ 	base_tax = 8 
+	base_production = 8
+ 	base_manpower = 2
+ 	remove_core = MUN
+} # Max-Clemens-Kanal increases trade, but does not reach its complete potential. Clemens August also becomes Bishop of K�ln
+1802.1.1 = {
+} # Ceded to Prussia
+1806.7.12 = { hre = no } # The Holy Roman Empire is dissolved
+1807.7.9 = {
+	remove_core = PRU
+} # The Second Treaty of Tilsit
+1813.10.13 = {
+	remove_core = WES
+} # Treaty of Paris

@@ -7,50 +7,30 @@
 #Nation Designer Cost is set to match triggers for starting institutions.
 
 groups = {
+
+	#############################
+	#	European Primitives
+	#############################
 	western = {
-		start_level = 3
-		start_cost_modifier = 0
-		nation_designer_cost = {
-			trigger = {
-				capital_scope = {
-					OR = {
-						continent = new_world
-						continent = north_america
-						continent = south_america
-						continent = oceania
-					}
-				}
-			}
-			value = 75
-		}
+		start_level = 1
+		start_cost_modifier = 2.50
+		is_primitive = yes
 	}
 	eastern = {
-		start_level = 3
-		start_cost_modifier = 0.20
-		nation_designer_cost = {
-			trigger = {
-				capital_scope = {
-					OR = {
-						continent = new_world
-						continent = north_america
-						continent = south_america
-						continent = oceania
-					}
-				}
-			}
-			value = 75
-		}
+		start_level = 1
+		start_cost_modifier = 2.00
+		is_primitive = yes
 	}
+
+	# Referred to as 'Greek' in game.
 	ottoman = {
 		start_level = 3
 		start_cost_modifier = 0.25
 		nation_designer_cost = {
 			trigger = {
 				capital_scope = {
-					OR = {
-						continent = new_world
-						continent = north_america
-						continent = south_america
+					AND = {
+						continent = europe
 						continent = oceania
 					}
 				}
@@ -64,10 +44,8 @@ groups = {
 		nation_designer_cost = {
 			trigger = {
 				capital_scope = {
-					OR = {
-						continent = new_world
-						continent = north_america
-						continent = south_america
+					AND = {
+						continent = europe
 						continent = oceania
 					}
 				}
@@ -81,10 +59,8 @@ groups = {
 		nation_designer_cost = {
 			trigger = {
 				capital_scope = {
-					OR = {
-						continent = new_world
-						continent = north_america
-						continent = south_america
+					AND = {
+						continent = europe
 						continent = oceania
 					}
 				}
@@ -96,11 +72,33 @@ groups = {
 		start_level = 3
 		start_cost_modifier = 0.5
 		nation_designer_unit_type = sub_saharan
+		nation_designer_cost = {
+			trigger = {
+				capital_scope = {
+					AND = {
+						continent = europe
+						continent = oceania
+					}
+				}
+			}
+			value = 75
+		}
 	}
 	central_african = {
 		start_level = 2
 		start_cost_modifier = 0.65
 		nation_designer_unit_type = sub_saharan
+		nation_designer_cost = {
+			trigger = {
+				capital_scope = {
+					AND = {
+						continent = europe
+						continent = oceania
+					}
+				}
+			}
+			value = 75
+		}
 	}
 	chinese = {
 		start_level = 3
@@ -108,10 +106,8 @@ groups = {
 		nation_designer_cost = {
 			trigger = {
 				capital_scope = {
-					OR = {
-						continent = new_world
-						continent = north_america
-						continent = south_america
+					AND = {
+						continent = europe
 						continent = oceania
 					}
 				}

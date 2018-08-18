@@ -1,0 +1,23 @@
+#Finland, incl. �bo.
+native_hostileness = 1
+native_ferocity = 1
+native_size = 1
+
+culture = swedish
+religion = catholic
+hre = no
+base_tax = 3 
+base_production = 3
+trade_goods = grain
+base_manpower = 2
+capital = "�bo"
+estate = estate_church
+fort_15th = yes
+discovered_by = western
+discovered_by = eastern
+
+
+1527.6.1 = { religion = protestant}
+1809.9.17 = {
+	remove_core = SWE
+} # Treaty of Fredrikshamn

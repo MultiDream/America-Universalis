@@ -1,26 +1,19 @@
 #1770 - Ostmarch
+religion = animism
+discovered_by = eastern
+discovered_by = western
+discovered_by = western
+native_hostileness = 1
+native_ferocity = 1
+native_size = 1
 
-owner = HAB
-controller = HAB
-add_core = HAB
 culture = austrian
-religion = catholic
 base_tax = 5 
 base_production = 5
 trade_goods = wine 
 base_manpower = 6
 capital = "Krems" 
-is_city = yes
-hre = yes
-discovered_by = KAZ
-discovered_by = CRI
-discovered_by = GOL
-discovered_by = AST
-discovered_by = QAS
-discovered_by = western
-discovered_by = eastern
-discovered_by = muslim
-discovered_by = ottoman
+hre = no
 
 
 1545.1.1 = { base_manpower = 3 }

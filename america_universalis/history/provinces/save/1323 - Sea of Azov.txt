@@ -1,0 +1,13 @@
+
+native_hostileness = 1
+native_ferocity = 1
+native_size = 1
+
+
+
+discovered_by = western
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = nomad_group
+

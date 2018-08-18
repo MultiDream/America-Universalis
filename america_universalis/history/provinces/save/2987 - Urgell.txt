@@ -1,0 +1,29 @@
+# - Urgell
+native_hostileness = 1
+native_ferocity = 1
+native_size = 1
+
+culture = catalan
+religion = catholic
+hre = no
+base_tax = 3
+base_production = 3
+trade_goods = wool 
+base_manpower = 2
+capital = "T�rrega" 
+estate = estate_nobles
+
+
+
+discovered_by = western
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+
+
+1484.1.1 = { unrest = 3 } # Second Remen�a revolt
+1486.4.21 = { unrest = 0 } # King Ferr�n arbit rates a resolution between the revolted peasants and the catalan nobles. 
+1641.1.1 = {
+	revolt = {}
+} # Louis XIII of France, Count of Barcelona.
+1713.7.13 = { remove_core = ARA }

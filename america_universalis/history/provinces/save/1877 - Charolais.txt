@@ -1,0 +1,20 @@
+capital = "Charolles"
+native_hostileness = 1
+native_ferocity = 1
+native_size = 1
+estate = estate_nobles
+culture = burgundian
+religion = catholic
+hre = no
+base_tax = 4
+base_production = 4
+trade_goods = salt
+base_manpower = 3
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+
+
+1665.9.17 = { add_claim = FRA } # Louis XIV's father-in-law, Philip IV of Spain, dies
+1806.7.12 = { hre = no } # The Holy Roman Empire is dissolved
